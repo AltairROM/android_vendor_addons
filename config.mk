@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
+	FontNotoSerifSourceOverlay \
     GoogleSansFont \
     LineageLatoFont \
     LineageRubikFont \

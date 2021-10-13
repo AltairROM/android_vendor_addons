@@ -26,4 +26,5 @@ PRODUCT_PACKAGES += \
     GoogleSansFont \
     LineageLatoFont \
     LineageRubikFont \
-    OnePlusSansFont
+    OnePlusSansFont \
+    OnePlusSlateFont

@@ -51,6 +51,14 @@
     <alias name="op-sans-bold" to="op-sans" weight="700" />
     <alias name="op-sans-black" to="op-sans" weight="900" />
 
+    <!-- OnePlus Slate -->
+    <family customizationType="new-named-family" name="oneplusslate">
+        <font weight="300" style="normal">SlateFromOP-Light.ttf</font>
+        <font weight="400" style="normal">SlateFromOP-Regular.ttf</font>
+    </family>
+    <alias name="oneplusslate-semi-bold" to="oneplusslate" weight="600" />
+    <alias name="oneplusslate-bold" to="oneplusslate" weight="700" />
+
     <!-- Rubik -->
     <family customizationType="new-named-family" name="rubik">
         <font weight="400" style="normal">Rubik-Regular.ttf</font>

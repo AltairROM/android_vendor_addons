@@ -25,4 +25,5 @@ PRODUCT_PACKAGES += \
     fonts_customization.xml \
     GoogleSansFont \
     LineageLatoFont \
-    LineageRubikFont
+    LineageRubikFont \
+    OnePlusSansFont

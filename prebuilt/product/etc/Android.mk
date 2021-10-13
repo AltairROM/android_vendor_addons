@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2020 crDroid Android Project
+# Copyright (C) 2020 crDroid Android Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,16 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 LOCAL_PATH := $(call my-dir)
-include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
-# Fonts
-$(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
-$(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
-
-PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
-
-PRODUCT_PACKAGES += \
-    fonts_customization.xml \
-    LineageLatoFont \
-    LineageRubikFont
+include $(CLEAR_VARS)
+LOCAL_MODULE := fonts_customization.xml
+LOCAL_SRC_FILES := fonts_customization.xml
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := ETC
+LOCAL_PRODUCT_MODULE := true
+include $(BUILD_PREBUILT)

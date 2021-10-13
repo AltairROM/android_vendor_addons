@@ -17,7 +17,7 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := GoogleSansFont
+LOCAL_RRO_THEME := FontGoogleSans
 LOCAL_CERTIFICATE := platform
 LOCAL_PRODUCT_MODULE := true
 
@@ -25,7 +25,7 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
-LOCAL_PACKAGE_NAME := GoogleSansFont
+LOCAL_PACKAGE_NAME := FontGoogleSans
 LOCAL_SDK_VERSION := current
 
 include $(BUILD_RRO_PACKAGE)

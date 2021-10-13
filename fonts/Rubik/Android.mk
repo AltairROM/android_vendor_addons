@@ -1,11 +1,11 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := LineageRubikFont
+LOCAL_RRO_THEME := FontRubik
 LOCAL_PRODUCT_MODULE := true
 LOCAL_CERTIFICATE := platform
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := LineageRubikFont
+LOCAL_PACKAGE_NAME := FontRubik
 
 LOCAL_PRIVATE_PLATFORM_APIS := true
 

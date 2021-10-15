@@ -49,3 +49,10 @@ PRODUCT_PACKAGES += \
     AccentMaterialRed \
     AccentMaterialTeal \
     AccentMaterialYellow
+
+# Dark mode backgrounds
+PRODUCT_PACKAGES += \
+    DarkBackgroundBlack \
+    DarkBackgroundDarkGray \
+    DarkBackgroundMatteBlack \
+    DarkBackgroundSolarized

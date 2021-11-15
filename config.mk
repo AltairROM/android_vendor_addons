@@ -29,3 +29,23 @@ PRODUCT_PACKAGES += \
     FontOnePlusSans \
     FontOnePlusSlate \
     FontRubik
+
+# Accent colors
+PRODUCT_PACKAGES += \
+    AccentMaterialAmber \
+    AccentMaterialBlue \
+    AccentMaterialBrown \
+    AccentMaterialCyan \
+    AccentMaterialDeepOrange \
+    AccentMaterialDeepPurple \
+    AccentMaterialGreen \
+    AccentMaterialIndigo \
+    AccentMaterialLightBlue \
+    AccentMaterialLightGreen \
+    AccentMaterialLime \
+    AccentMaterialOrange \
+    AccentMaterialPink \
+    AccentMaterialPurple \
+    AccentMaterialRed \
+    AccentMaterialTeal \
+    AccentMaterialYellow

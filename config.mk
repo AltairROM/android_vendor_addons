@@ -63,4 +63,9 @@ PRODUCT_PACKAGES += \
 	IconPackFilledLauncherOverlay \
 	IconPackFilledSettingsOverlay \
 	IconPackFilledSystemUIOverlay \
-	IconPackFilledThemePickerOverlay
+	IconPackFilledThemePickerOverlay \
+	IconPackRetroAndroidOverlay \
+	IconPackRetroLauncherOverlay \
+	IconPackRetroSettingsOverlay \
+	IconPackRetroSystemUIOverlay \
+	IconPackRetroThemePickerOverlay

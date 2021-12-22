@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright (C) 2019 The Android Open Source Project
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:tint="?android:attr/colorControlNormal"
+        android:viewportWidth="24"
+        android:viewportHeight="24">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M18.6496,11.2003L5.4005,11.2003C5.3333,12.0003 5.3002,12.7672 5.3002,13.5C5.3002,14.2339 5.3002,14.7747 5.3002,15.1245C5.3002,15.4755 5.3247,15.9587 5.3749,16.5752C5.425,17.1917 5.4837,17.6504 5.5498,17.9501C5.617,18.2499 5.7247,18.6253 5.8751,19.0755C6.0255,19.5245 6.2165,19.8669 6.4501,20.1005C6.6837,20.3331 6.9663,20.5912 7.3002,20.8749C7.633,21.1587 8.017,21.3667 8.4501,21.5C8.8832,21.6333 9.4005,21.7496 10,21.8499C10.6005,21.9501 11.2672,22.0003 12,22.0003C12.7338,22.0003 13.4005,21.9501 14,21.8499C14.6005,21.7496 15.1168,21.6333 15.5498,21.5C15.9829,21.3667 16.3669,21.1587 16.6997,20.8749C17.0336,20.5912 17.3162,20.3331 17.5498,20.1005C17.7834,19.8669 17.9754,19.5245 18.1248,19.0755C18.2752,18.6253 18.3829,18.2499 18.4501,17.9501C18.5162,17.6504 18.5664,17.1917 18.6005,16.5752C18.6336,15.9587 18.6581,15.4755 18.6752,15.1245C18.6923,14.7747 18.6997,14.2339 18.6997,13.5C18.6997,12.2669 18.6837,11.5 18.6496,11.2003ZM12.8,2.0002L12.8,9.6504L18.6005,9.6504C18.4672,8.5496 18.2837,7.5917 18.0501,6.7746C17.8165,5.9586 17.4837,5.1746 17.0496,4.4248C16.6165,3.6749 16.0416,3.0914 15.3248,2.6754C14.608,2.2584 13.7664,2.0333 12.8,2.0002ZM11.2,2.0002C10.3338,2.0333 9.5669,2.1997 8.9002,2.5005C8.2336,2.8002 7.7002,3.1672 7.3002,3.6002C6.9002,4.0333 6.5663,4.5997 6.2997,5.3005C6.033,6.0002 5.8421,6.6754 5.7247,7.325C5.6085,7.9746 5.5167,8.7501 5.4495,9.6504L11.2,9.6504L11.2,2.0002Z" />
+</vector>

@@ -1,0 +1,30 @@
+<!--
+Copyright (C) 2017 The Android Open Source Project
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:viewportWidth="24"
+        android:viewportHeight="24">
+    <path
+        android:fillColor="?android:attr/colorControlActivated"
+        android:pathData="M19.3744,11.9994L21.721,9.7647L18.6474,8.8161L19.8213,5.7984L16.6368,6.2453L16.3579,3.006L13.6203,4.7937L11.9994,2.0001L10.3798,4.7937L7.6422,3.006L7.3633,6.2453L4.1788,5.7984L5.3515,8.8161L2.279,9.7647L4.6257,11.9994L2.279,14.234L5.3515,15.1839L4.1788,18.2016L7.3633,17.7546L7.6422,20.994L10.3798,19.2063L11.9994,21.9999L13.6203,19.2063L16.3579,20.994L16.6368,17.7546L19.8213,18.2016L18.6474,15.1839L21.721,14.234L19.3744,11.9994Z" />
+    <path
+        android:fillColor="?android:attr/colorBackgroundFloating"
+        android:pathData="M16.2459,16.3018C15.091,17.4567 13.6763,18.0335 11.9994,18.0335C10.3238,18.0335 8.8995,17.4472 7.7256,16.2732C6.5529,15.1005 5.9665,13.6763 5.9665,11.9994C5.9665,10.3237 6.5529,8.8995 7.7256,7.7267C8.8995,6.5528 10.3238,5.9664 11.9994,5.9664C13.6763,5.9664 15.1005,6.5528 16.2733,7.7267C17.4472,8.8995 18.0336,10.3237 18.0336,11.9994C18.0336,13.6763 17.4377,15.11 16.2459,16.3018Z" />
+    <path
+        android:fillColor="?android:attr/colorControlActivated"
+        android:pathData="M15.4646,8.5365C14.4957,7.5688 13.3408,7.0837 12,7.0837C10.6592,7.0837 9.5055,7.5688 8.5366,8.5365C7.5689,9.5055 7.0838,10.6592 7.0838,11.9999C7.0838,13.3407 7.5689,14.4956 8.5366,15.4645C9.5055,16.4323 10.6592,16.9162 12,16.9162C13.3408,16.9162 14.4957,16.4323 15.4646,15.4645C16.4324,14.4956 16.9162,13.3407 16.9162,11.9999C16.9162,10.6592 16.4324,9.5055 15.4646,8.5365Z" />
+</vector>

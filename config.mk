@@ -56,3 +56,11 @@ PRODUCT_PACKAGES += \
     DarkBackgroundDarkGray \
     DarkBackgroundMatteBlack \
     DarkBackgroundSolarized
+
+# Icon pack overlays
+PRODUCT_PACKAGES += \
+	IconPackFilledAndroidOverlay \
+	IconPackFilledLauncherOverlay \
+	IconPackFilledSettingsOverlay \
+	IconPackFilledSystemUIOverlay \
+	IconPackFilledThemePickerOverlay

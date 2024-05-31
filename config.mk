@@ -15,6 +15,10 @@
 LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
+# Package overlays
+PRODUCT_PACKAGE_OVERLAYS += packages/overlays/Altair/overlay/common
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += packages/overlays/Altair/overlay/common
+
 # Fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)

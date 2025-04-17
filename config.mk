@@ -30,12 +30,15 @@ PRODUCT_PACKAGES += \
     fonts_customization.xml \
     ClockFontGoogleSansOverlay \
     ClockFontLatoOverlay \
+    ClockFontNothingDotHeadlineOverlay \
     ClockFontNotoSerifSourceOverlay \
     ClockFontOnePlusSansOverlay \
     ClockFontOnePlusSlateOverlay \
     ClockFontRubikOverlay \
     FontGoogleSansOverlay \
     FontLatoOverlay \
+    FontNothingDotHeadlineOverlay \
+    FontNothingDotOverlay \
     FontNotoSerifSourceOverlay \
     FontOnePlusSansOverlay \
     FontOnePlusSlateOverlay \

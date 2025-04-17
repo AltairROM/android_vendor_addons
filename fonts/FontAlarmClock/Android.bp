@@ -1,0 +1,9 @@
+// SPDX-FileCopyrightText: 2025 Altair ROM Project
+// SPDX-License-Identifier: Apache-2.0
+
+runtime_resource_overlay {
+    name: "FontAlarmClockOverlay",
+    product_specific: true,
+    sdk_version: "current",
+    theme: "FontAlarmClock",
+}

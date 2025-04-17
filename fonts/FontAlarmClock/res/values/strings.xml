@@ -1,0 +1,8 @@
+<!--
+    SPDX-FileCopyrightText: 2025 Altair ROM Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Headline / Body font NothingDot overlay -->
+    <string name="font_alarmclock_overlay" translatable="false">Alarm Clock</string>
+</resources>

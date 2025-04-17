@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
+    ClockFontAlarmClockOverlay \
     ClockFontGoogleSansOverlay \
     ClockFontLatoOverlay \
     ClockFontNothingDotHeadlineOverlay \
@@ -35,6 +36,7 @@ PRODUCT_PACKAGES += \
     ClockFontOnePlusSansOverlay \
     ClockFontOnePlusSlateOverlay \
     ClockFontRubikOverlay \
+    FontAlarmClockOverlay \
     FontGoogleSansOverlay \
     FontLatoOverlay \
     FontNothingDotHeadlineOverlay \

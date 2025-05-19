@@ -40,11 +40,8 @@ PRODUCT_PACKAGES += \
     ClockFontRubikOverlay
 
 PRODUCT_PACKAGES += \
-    FontAlarmClockOverlay \
     FontGoogleSansFlexOverlay \
     FontLatoOverlay \
-    FontNothingDotHeadlineOverlay \
-    FontNothingDotOverlay \
     FontNotoSerifSourceOverlay \
     FontOnePlusSansOverlay \
     FontOnePlusSlateOverlay \

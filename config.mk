@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2022 Altair ROM Project
+# Copyright (C) 2017-2025 Altair ROM Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -27,7 +27,9 @@ PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
 
 PRODUCT_PACKAGES += \
-    fonts_customization.xml \
+    fonts_customization.xml
+
+PRODUCT_PACKAGES += \
     ClockFontAlarmClockOverlay \
     ClockFontGoogleSansFlexOverlay \
     ClockFontLatoOverlay \
@@ -35,7 +37,9 @@ PRODUCT_PACKAGES += \
     ClockFontNotoSerifSourceOverlay \
     ClockFontOnePlusSansOverlay \
     ClockFontOnePlusSlateOverlay \
-    ClockFontRubikOverlay \
+    ClockFontRubikOverlay
+
+PRODUCT_PACKAGES += \
     FontAlarmClockOverlay \
     FontGoogleSansFlexOverlay \
     FontLatoOverlay \
